@@ -64,6 +64,8 @@ node_modules/
 
 # dotenv environment variables file
 .env
+# Ignore all JSON files except vercel.json
+!vercel.json
 *.json
 
 # dataconnect generated files
