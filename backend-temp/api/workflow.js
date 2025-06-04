@@ -3,7 +3,7 @@
 import fs from 'fs';
 import path from 'path';
 import { getFirestore } from 'firebase-admin/firestore';
-import { recommendNextTopic } from '../src/lib/recommendNextTopic.js';
+import { recommendNextTopic } from '../../src/lib/recommendNextTopic.js';
 import fsExtra from 'fs-extra';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
