@@ -1,7 +1,0 @@
-{
-  "ignore": [
-    "api/**",
-    "server.js",
-    "setupEnv.js"
-  ]
-}
