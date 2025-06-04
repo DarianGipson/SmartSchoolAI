@@ -1,0 +1,12 @@
+# Terms of Service
+
+Welcome to SmartSchool AI. By using this platform, you agree to the following terms:
+
+1. **Use of Service**: You agree to use SmartSchool AI for lawful, educational purposes only. Misuse or abuse of the platform is prohibited.
+2. **User Content**: You are responsible for any content you submit. Do not upload or share content that is illegal, harmful, or infringes on others' rights.
+3. **AI Limitations**: The AI provides educational support but may not always be accurate. Always verify important information.
+4. **Privacy**: We respect your privacy. See our Privacy Policy for details on data collection and use.
+5. **Liability**: SmartSchool AI is provided "as is" without warranties. We are not liable for damages arising from use of the platform.
+6. **Changes**: We may update these terms at any time. Continued use means you accept the new terms.
+
+For questions, contact support@smartschool.ai.

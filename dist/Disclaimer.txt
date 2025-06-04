@@ -1,0 +1,9 @@
+# Disclaimer
+
+SmartSchool AI uses artificial intelligence to generate educational content and feedback. While we strive for accuracy and appropriateness, the AI may occasionally produce errors or content that is not suitable for all users. 
+
+- Always review AI-generated content before relying on it for important decisions.
+- The platform is not a substitute for professional educators or legal advice.
+- Use of the platform is at your own risk.
+
+For questions or to report issues, contact support@smartschool.ai.

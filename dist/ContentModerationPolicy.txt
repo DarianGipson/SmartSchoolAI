@@ -1,0 +1,10 @@
+# AI Content Moderation and Logging Policy
+
+SmartSchool AI is committed to providing a safe, inclusive, and educational environment. To achieve this, we:
+
+- Log all user interactions with the AI for auditability, transparency, and safety.
+- Use automated and manual review to detect and filter harmful, biased, or inappropriate content.
+- Regularly update our moderation algorithms to improve accuracy and reduce bias.
+- Respond promptly to user reports of inappropriate content.
+
+If you encounter problematic content, please contact support@smartschool.ai.

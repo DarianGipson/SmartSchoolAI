@@ -1,0 +1,12 @@
+# Privacy Policy
+
+SmartSchool AI is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information.
+
+1. **Information Collected**: We collect information you provide (such as name, email, student data) and usage data (such as lessons completed, quiz results).
+2. **Use of Information**: Data is used to personalize learning, improve the platform, and ensure safety and compliance (COPPA, FERPA, GDPR).
+3. **Data Sharing**: We do not sell your data. Information may be shared with trusted service providers for educational purposes only.
+4. **Children's Privacy**: We comply with COPPA and do not knowingly collect personal information from children under 13 without parental consent.
+5. **Security**: We use industry-standard security to protect your data.
+6. **Your Rights**: You may request access, correction, or deletion of your data at any time.
+
+For questions, contact privacy@smartschool.ai.
