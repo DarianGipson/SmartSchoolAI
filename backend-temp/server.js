@@ -19,9 +19,10 @@ const app = express();
 app.use(express.json());
 
 // CORS configuration: allow Vercel frontend and (optionally) your custom domain
+// If you add a custom domain, add it to allowedOrigins below.
 const allowedOrigins = [
   'https://smartschoolai.vercel.app',
-  // Add your custom domain here if needed, e.g. 'https://www.yourdomain.com'
+  // 'https://www.yourdomain.com', // Uncomment and edit if you add a custom domain
 ];
 app.use(cors({
   origin: function (origin, callback) {
