@@ -13,9 +13,28 @@ import progress from './api/progress.js';
 import tutorChat from './api/tutor-chat.js';
 import updateMastery from './api/update-mastery.js';
 import workflow from './api/workflow.js';
+import cors from 'cors';
 
 const app = express();
 app.use(express.json());
+
+// CORS configuration: allow Vercel frontend and (optionally) your custom domain
+const allowedOrigins = [
+  'https://smartschoolai.vercel.app',
+  // Add your custom domain here if needed, e.g. 'https://www.yourdomain.com'
+];
+app.use(cors({
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps, curl, etc.)
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    } else {
+      return callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true,
+}));
 
 app.all('/api/dashboard-analytics', dashboardAnalytics);
 app.all('/api/explain-concept', explainConcept);
